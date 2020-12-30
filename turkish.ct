@@ -1,5 +1,5 @@
 ## version $VER: info.catalog 1.4 (28.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
@@ -8,11 +8,11 @@ Bilgi
 ; Information
 ;
 MSG_DESCRIPTION
-Simge Bilgisini GÃ¶rÃ¼ntÃ¼ler
+Simge Bilgisini Görüntüler
 ; Display Icon information
 ;
 MSG_COPYRIGHT
-Simge Bilgisi \xa9 2003-2010, AROS GeliÅŸtirme TakÄ±mÄ±
+Simge Bilgisi \xa9 2003-2010, AROS Geliþtirme Takýmý
 ; Icon information \xa9 2003-2010, The AROS Development Team
 ;
 MSG_ICON
@@ -20,23 +20,23 @@ Simge
 ; Icon
 ;
 MSG_NAME
-AdÄ±
+Adý
 ; Name
 ;
 MSG_COMMENT
-AÃ§Ä±klama
+Açýklama
 ; Comment
 ;
 MSG_STACK
-YÄ±ÄŸÄ±n
+Yýðýn
 ; Stack
 ;
 MSG_DEFTOOL
-AraÃ§
+Araç
 ; Tool
 ;
 MSG_ICONTYPE
-Simge tÃ¼rÃ¼
+Simge türü
 ; Icon type
 ;
 MSG_DISK
@@ -44,11 +44,11 @@ Disk
 ; Disk
 ;
 MSG_DRAWER
-Ã‡ekmece
+Çekmece
 ; Drawer
 ;
 MSG_TOOL
-AraÃ§
+Araç
 ; Tool
 ;
 MSG_PROJECT
@@ -56,11 +56,11 @@ Proje
 ; Project
 ;
 MSG_GARBAGE
-Ã‡Ã¶p
+Çöp
 ; Garbage
 ;
 MSG_DEVICE
-AygÄ±t
+Aygýt
 ; Device
 ;
 MSG_KICK
@@ -80,19 +80,19 @@ Koruma
 ; Protection
 ;
 MSG_TOOLTYPES
-AraÃ§ tÃ¼rleri
+Araç türleri
 ; Tooltypes
 ;
 MSG_ERROR_SHELLSTART
-Hata: Shell'den baÅŸlatÄ±lamaz
+Hata: Shell'den baþlatýlamaz
 ; Error: Cannot be started from shell
 ;
 MSG_ABOUT
-HakkÄ±nda...
+Hakkýnda...
 ; About...
 ;
 MSG_QUIT
-Ã‡Ä±kÄ±ÅŸ
+Çýkýþ
 ; Quit
 ;
 MSG_READ
@@ -104,7 +104,7 @@ Yaz
 ; Write
 ;
 MSG_EXECUTE
-Ã‡alÄ±ÅŸtÄ±r
+Çalýþtýr
 ; Execute
 ;
 MSG_DELETE
@@ -120,11 +120,11 @@ Salt
 ; Pure
 ;
 MSG_ARCHIVED
-ArÅŸivlenmiÅŸ
+Arþivlenmiþ
 ; Archived
 ;
 MSG_STICKY
-YapÄ±ÅŸkan
+Yapýþkan
 ; Sticky
 ;
 MSG_SIZE
@@ -132,7 +132,7 @@ Boyut
 ; Size
 ;
 MSG_VERSION
-SÃ¼rÃ¼m
+Sürüm
 ; Version
 ;
 MSG_OWNERID
@@ -152,7 +152,7 @@ Gurup
 ; Group
 ;
 MSG_TYPE
-TÃ¼r
+Tür
 ; Type
 ;
 MSG_DATE
@@ -164,7 +164,7 @@ Yeni anahtar
 ; New key
 ;
 MSG_DELETE_KEY
-AnahtarÄ± sil
+Anahtarý sil
 ; Delete key
 ;
 MSG_SAVE
@@ -172,7 +172,7 @@ _Kaydet
 ; _Save
 ;
 MSG_CANCEL
-_VazgeÃ§
+_Vazgeç
 ; _Cancel
 ;
 MSG_OK
@@ -184,6 +184,6 @@ Yol
 ; Path
 ;
 MSG_BTNPATH
-Yolu aÃ§...
+Yolu aç...
 ; Open path...
 ;
