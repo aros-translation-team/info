@@ -1,4 +1,4 @@
-## version $VER: info.catalog 1.0 (30.09.2007)
+## version $VER: info.catalog 1.0 (06.08.2026)
 ## codeset 0
 ## language euskara
 ;
@@ -64,12 +64,8 @@ Tresna
 ;
 MSG_KICK
 Kick
-Kick
-;
 MSG_APPICON
 AppIcon
-AppIcon
-;
 MSG_INFORMATION
 Informazioa
 ;Information
@@ -177,4 +173,12 @@ _Deuseztu
 MSG_OK
 Ados
 ;Ok
+;
+MSG_PATH
+Bidea
+; Path
+;
+MSG_BTNPATH
+Bidea ireki...
+; Open path...
 ;

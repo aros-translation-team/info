@@ -1,4 +1,4 @@
-## version $VER: info.catalog 1.0 (18.07.2010)
+## version $VER: info.catalog 1.0 (06.08.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -179,4 +179,12 @@ _Afbryd
 MSG_OK
 O.k.
 ; Ok
+;
+MSG_PATH
+Sti
+; Path
+;
+MSG_BTNPATH
+Åbn sti...
+; Open path...
 ;

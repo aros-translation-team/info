@@ -1,4 +1,4 @@
-## version $VER: info.catalog 1.0 (30.09.2007)
+## version $VER: info.catalog 1.0 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -177,4 +177,12 @@ _Cancelar
 MSG_OK
 Aceitar
 ;Ok
+;
+MSG_PATH
+Caminho
+; Path
+;
+MSG_BTNPATH
+Abrir caminho...
+; Open path...
 ;
