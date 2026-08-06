@@ -1,0 +1,188 @@
+## version $VER: info.catalog 1.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_TITLE
+Informacije
+; Information
+;
+MSG_DESCRIPTION
+Prikazuje informacije o ikoni
+; Display Icon information
+;
+MSG_COPYRIGHT
+Informacije o ikoni \xa9 2003-2010, The AROS Development Team
+; Icon information \xa9 2003-2010, The AROS Development Team
+;
+MSG_ICON
+Ikona
+; Icon
+;
+MSG_NAME
+Ime
+; Name
+;
+MSG_COMMENT
+Komentar
+; Comment
+;
+MSG_STACK
+Stek
+; Stack
+;
+MSG_DEFTOOL
+Alat
+; Tool
+;
+MSG_ICONTYPE
+Tip ikone
+; Icon type
+;
+MSG_DISK
+Disk
+; Disk
+;
+MSG_DRAWER
+Direktorijum
+; Drawer
+;
+MSG_TOOL
+Alat
+; Tool
+;
+MSG_PROJECT
+Projekat
+; Project
+;
+MSG_GARBAGE
+Kanta
+; Garbage
+;
+MSG_DEVICE
+UreÐaj
+; Device
+;
+MSG_KICK
+Kick
+; Kick
+;
+MSG_APPICON
+AppIcon
+; AppIcon
+;
+MSG_INFORMATION
+Informacije
+; Information
+;
+MSG_PROTECTION
+Zaçtita
+; Protection
+;
+MSG_TOOLTYPES
+Tooltypes
+; Tooltypes
+;
+MSG_ERROR_SHELLSTART
+Greçka: Ne mo§e se pokrenuti iz Shell-a
+; Error: Cannot be started from shell
+;
+MSG_ABOUT
+O programu...
+; About...
+;
+MSG_QUIT
+IzaÐi
+; Quit
+;
+MSG_READ
+¬itanje
+; Read
+;
+MSG_WRITE
+Pisanje
+; Write
+;
+MSG_EXECUTE
+Izvrçi
+; Execute
+;
+MSG_DELETE
+Obriçi
+; Delete
+;
+MSG_SCRIPT
+Skripta
+; Script
+;
+MSG_PURE
+Pure
+; Pure
+;
+MSG_ARCHIVED
+Arhivirano
+; Archived
+;
+MSG_STICKY
+Lepljivi
+; Sticky
+;
+MSG_SIZE
+VeliŸina
+; Size
+;
+MSG_VERSION
+Verzija
+; Version
+;
+MSG_OWNERID
+ID vlasnika
+; Owner ID
+;
+MSG_GROUPID
+ID grupe
+; Group ID
+;
+MSG_OWNERNAME
+Vlasnik
+; Owner
+;
+MSG_GROUPNAME
+Grupa
+; Group
+;
+MSG_TYPE
+Tip
+; Type
+;
+MSG_DATE
+Datum
+; Date
+;
+MSG_NEW_KEY
+Novi kljuŸ
+; New key
+;
+MSG_DELETE_KEY
+Obriçi kljuŸ
+; Delete key
+;
+MSG_SAVE
+_Snimi
+; _Save
+;
+MSG_CANCEL
+_Poniçti
+; _Cancel
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_PATH
+Putanja
+; Path
+;
+MSG_BTNPATH
+Otvori putanju...
+; Open path...
+;

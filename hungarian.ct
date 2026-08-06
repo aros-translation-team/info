@@ -1,0 +1,188 @@
+## version $VER: info.catalog 1.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_TITLE
+Információ
+; Information
+;
+MSG_DESCRIPTION
+Ikoninformáció megjelenítése
+; Display Icon information
+;
+MSG_COPYRIGHT
+Ikoninformáció \xa9 2003-2010, The AROS Development Team
+; Icon information \xa9 2003-2010, The AROS Development Team
+;
+MSG_ICON
+Ikon
+; Icon
+;
+MSG_NAME
+Név
+; Name
+;
+MSG_COMMENT
+Megjegyzés
+; Comment
+;
+MSG_STACK
+Verem
+; Stack
+;
+MSG_DEFTOOL
+Eszköz
+; Tool
+;
+MSG_ICONTYPE
+Ikon típusa
+; Icon type
+;
+MSG_DISK
+Lemez
+; Disk
+;
+MSG_DRAWER
+Fiók
+; Drawer
+;
+MSG_TOOL
+Eszköz
+; Tool
+;
+MSG_PROJECT
+Projekt
+; Project
+;
+MSG_GARBAGE
+Kuka
+; Garbage
+;
+MSG_DEVICE
+Eszköz
+; Device
+;
+MSG_KICK
+Kick
+; Kick
+;
+MSG_APPICON
+AppIcon
+; AppIcon
+;
+MSG_INFORMATION
+Információ
+; Information
+;
+MSG_PROTECTION
+Védelem
+; Protection
+;
+MSG_TOOLTYPES
+Tooltypes
+; Tooltypes
+;
+MSG_ERROR_SHELLSTART
+Hiba: Nem indítható a shellbõl
+; Error: Cannot be started from shell
+;
+MSG_ABOUT
+Névjegy...
+; About...
+;
+MSG_QUIT
+Kilépés
+; Quit
+;
+MSG_READ
+Olvasás
+; Read
+;
+MSG_WRITE
+Írás
+; Write
+;
+MSG_EXECUTE
+Futtatás
+; Execute
+;
+MSG_DELETE
+Töröl
+; Delete
+;
+MSG_SCRIPT
+Szkript
+; Script
+;
+MSG_PURE
+Pure
+; Pure
+;
+MSG_ARCHIVED
+Archivált
+; Archived
+;
+MSG_STICKY
+Ragadás
+; Sticky
+;
+MSG_SIZE
+Méret
+; Size
+;
+MSG_VERSION
+Verzió
+; Version
+;
+MSG_OWNERID
+Tulajdonos ID
+; Owner ID
+;
+MSG_GROUPID
+Csoport ID
+; Group ID
+;
+MSG_OWNERNAME
+Tulajdonos
+; Owner
+;
+MSG_GROUPNAME
+Csoport
+; Group
+;
+MSG_TYPE
+Típus
+; Type
+;
+MSG_DATE
+Dátum
+; Date
+;
+MSG_NEW_KEY
+Új kulcs
+; New key
+;
+MSG_DELETE_KEY
+Kulcs törlése
+; Delete key
+;
+MSG_SAVE
+Ment_sd
+; _Save
+;
+MSG_CANCEL
+Mégse
+; _Cancel
+;
+MSG_OK
+Rendben
+; Ok
+;
+MSG_PATH
+Útvonal
+; Path
+;
+MSG_BTNPATH
+Útvonal megnyitása...
+; Open path...
+;

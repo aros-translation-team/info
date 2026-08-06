@@ -1,0 +1,188 @@
+## version $VER: info.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+Informació
+; Information
+;
+MSG_DESCRIPTION
+Mostrar la informació de la icona
+; Display Icon information
+;
+MSG_COPYRIGHT
+Informació de la icona \xa9 2003-2010, The AROS Development Team
+; Icon information \xa9 2003-2010, The AROS Development Team
+;
+MSG_ICON
+Icona
+; Icon
+;
+MSG_NAME
+Nom
+; Name
+;
+MSG_COMMENT
+Comentari
+; Comment
+;
+MSG_STACK
+Pila
+; Stack
+;
+MSG_DEFTOOL
+Eina
+; Tool
+;
+MSG_ICONTYPE
+Tipus d'icona
+; Icon type
+;
+MSG_DISK
+Disc
+; Disk
+;
+MSG_DRAWER
+Calaix
+; Drawer
+;
+MSG_TOOL
+Eina
+; Tool
+;
+MSG_PROJECT
+Projecte
+; Project
+;
+MSG_GARBAGE
+Paperera
+; Garbage
+;
+MSG_DEVICE
+Dispositiu
+; Device
+;
+MSG_KICK
+Kick
+; Kick
+;
+MSG_APPICON
+AppIcon
+; AppIcon
+;
+MSG_INFORMATION
+Informació
+; Information
+;
+MSG_PROTECTION
+Protecció
+; Protection
+;
+MSG_TOOLTYPES
+Tooltypes
+; Tooltypes
+;
+MSG_ERROR_SHELLSTART
+Error: No es pot iniciar des del Shell
+; Error: Cannot be started from shell
+;
+MSG_ABOUT
+Sobre...
+; About...
+;
+MSG_QUIT
+Sortir
+; Quit
+;
+MSG_READ
+Lectura
+; Read
+;
+MSG_WRITE
+Escriptura
+; Write
+;
+MSG_EXECUTE
+Executar
+; Execute
+;
+MSG_DELETE
+Esborrar
+; Delete
+;
+MSG_SCRIPT
+Script
+; Script
+;
+MSG_PURE
+Pur
+; Pure
+;
+MSG_ARCHIVED
+Arxivat
+; Archived
+;
+MSG_STICKY
+Persistent
+; Sticky
+;
+MSG_SIZE
+Mida
+; Size
+;
+MSG_VERSION
+Versió
+; Version
+;
+MSG_OWNERID
+ID del propietari
+; Owner ID
+;
+MSG_GROUPID
+ID del grup
+; Group ID
+;
+MSG_OWNERNAME
+Propietari
+; Owner
+;
+MSG_GROUPNAME
+Grup
+; Group
+;
+MSG_TYPE
+Tipus
+; Type
+;
+MSG_DATE
+Data
+; Date
+;
+MSG_NEW_KEY
+Nova clau
+; New key
+;
+MSG_DELETE_KEY
+Esborrar clau
+; Delete key
+;
+MSG_SAVE
+_Desar
+; _Save
+;
+MSG_CANCEL
+_Cancel.lar
+; _Cancel
+;
+MSG_OK
+D'acord
+; Ok
+;
+MSG_PATH
+Camí
+; Path
+;
+MSG_BTNPATH
+Obrir el camí...
+; Open path...
+;

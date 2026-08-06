@@ -1,0 +1,188 @@
+## version $VER: info.catalog 1.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_TITLE
+Tietoa
+; Information
+;
+MSG_DESCRIPTION
+Näytä kuvakkeen tiedot
+; Display Icon information
+;
+MSG_COPYRIGHT
+Kuvaketiedot \xa9 2003-2010, The AROS Development Team
+; Icon information \xa9 2003-2010, The AROS Development Team
+;
+MSG_ICON
+Kuvake
+; Icon
+;
+MSG_NAME
+Nimi
+; Name
+;
+MSG_COMMENT
+Kommentti
+; Comment
+;
+MSG_STACK
+Pino
+; Stack
+;
+MSG_DEFTOOL
+Työkalu
+; Tool
+;
+MSG_ICONTYPE
+Kuvakkeen tyyppi
+; Icon type
+;
+MSG_DISK
+Levy
+; Disk
+;
+MSG_DRAWER
+Hakemisto
+; Drawer
+;
+MSG_TOOL
+Työkalu
+; Tool
+;
+MSG_PROJECT
+Projekti
+; Project
+;
+MSG_GARBAGE
+Roskakori
+; Garbage
+;
+MSG_DEVICE
+Laite
+; Device
+;
+MSG_KICK
+Kick
+; Kick
+;
+MSG_APPICON
+AppIcon
+; AppIcon
+;
+MSG_INFORMATION
+Tietoa
+; Information
+;
+MSG_PROTECTION
+Suojaus
+; Protection
+;
+MSG_TOOLTYPES
+Työkalutyypit
+; Tooltypes
+;
+MSG_ERROR_SHELLSTART
+Virhe: Ei voida käynnistää shellistä
+; Error: Cannot be started from shell
+;
+MSG_ABOUT
+Tietoa...
+; About...
+;
+MSG_QUIT
+Lopeta
+; Quit
+;
+MSG_READ
+Luku
+; Read
+;
+MSG_WRITE
+Kirjoitus
+; Write
+;
+MSG_EXECUTE
+Aja komento
+; Execute
+;
+MSG_DELETE
+Poista
+; Delete
+;
+MSG_SCRIPT
+Skripti
+; Script
+;
+MSG_PURE
+Pure
+; Pure
+;
+MSG_ARCHIVED
+Arkistoitu
+; Archived
+;
+MSG_STICKY
+Pysyvä
+; Sticky
+;
+MSG_SIZE
+Koko
+; Size
+;
+MSG_VERSION
+Versio
+; Version
+;
+MSG_OWNERID
+Omistajan ID
+; Owner ID
+;
+MSG_GROUPID
+Ryhmän ID
+; Group ID
+;
+MSG_OWNERNAME
+Omistaja
+; Owner
+;
+MSG_GROUPNAME
+Ryhmä
+; Group
+;
+MSG_TYPE
+Tyyppi
+; Type
+;
+MSG_DATE
+Päiväys
+; Date
+;
+MSG_NEW_KEY
+Uusi avain
+; New key
+;
+MSG_DELETE_KEY
+Poista avain
+; Delete key
+;
+MSG_SAVE
+_Tallenna
+; _Save
+;
+MSG_CANCEL
+_Peru
+; _Cancel
+;
+MSG_OK
+Selvä
+; Ok
+;
+MSG_PATH
+Polku
+; Path
+;
+MSG_BTNPATH
+Avaa polku...
+; Open path...
+;

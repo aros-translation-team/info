@@ -1,0 +1,188 @@
+## version $VER: info.catalog 1.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_TITLE
+Information
+; Information
+;
+MSG_DESCRIPTION
+Visa ikoninformation
+; Display Icon information
+;
+MSG_COPYRIGHT
+Ikoninformation \xa9 2003-2010, The AROS Development Team
+; Icon information \xa9 2003-2010, The AROS Development Team
+;
+MSG_ICON
+Ikon
+; Icon
+;
+MSG_NAME
+Namn
+; Name
+;
+MSG_COMMENT
+Kommentar
+; Comment
+;
+MSG_STACK
+Stack
+; Stack
+;
+MSG_DEFTOOL
+Verktyg
+; Tool
+;
+MSG_ICONTYPE
+Ikontyp
+; Icon type
+;
+MSG_DISK
+Disk
+; Disk
+;
+MSG_DRAWER
+Låda
+; Drawer
+;
+MSG_TOOL
+Verktyg
+; Tool
+;
+MSG_PROJECT
+Projekt
+; Project
+;
+MSG_GARBAGE
+Papperskorg
+; Garbage
+;
+MSG_DEVICE
+Enhet
+; Device
+;
+MSG_KICK
+Kick
+; Kick
+;
+MSG_APPICON
+AppIkon
+; AppIcon
+;
+MSG_INFORMATION
+Information
+; Information
+;
+MSG_PROTECTION
+Skydd
+; Protection
+;
+MSG_TOOLTYPES
+Verktygstyper
+; Tooltypes
+;
+MSG_ERROR_SHELLSTART
+Fel: Kan inte startas från shell
+; Error: Cannot be started from shell
+;
+MSG_ABOUT
+Om...
+; About...
+;
+MSG_QUIT
+Avsluta
+; Quit
+;
+MSG_READ
+Läs
+; Read
+;
+MSG_WRITE
+Skriv
+; Write
+;
+MSG_EXECUTE
+Exekvera kommando
+; Execute
+;
+MSG_DELETE
+Radera
+; Delete
+;
+MSG_SCRIPT
+Skript
+; Script
+;
+MSG_PURE
+Ren
+; Pure
+;
+MSG_ARCHIVED
+Arkiverad
+; Archived
+;
+MSG_STICKY
+Fastnålad
+; Sticky
+;
+MSG_SIZE
+Storlek
+; Size
+;
+MSG_VERSION
+Version
+; Version
+;
+MSG_OWNERID
+Ägar-ID
+; Owner ID
+;
+MSG_GROUPID
+Grupp-ID
+; Group ID
+;
+MSG_OWNERNAME
+Ägare
+; Owner
+;
+MSG_GROUPNAME
+Grupp
+; Group
+;
+MSG_TYPE
+Typ
+; Type
+;
+MSG_DATE
+Datum
+; Date
+;
+MSG_NEW_KEY
+Ny nyckel
+; New key
+;
+MSG_DELETE_KEY
+Radera nyckel
+; Delete key
+;
+MSG_SAVE
+_Spara
+; _Save
+;
+MSG_CANCEL
+A_vbryt
+; _Cancel
+;
+MSG_OK
+OK
+; Ok
+;
+MSG_PATH
+Sökväg
+; Path
+;
+MSG_BTNPATH
+Öppna sökväg...
+; Open path...
+;

@@ -1,0 +1,188 @@
+## version $VER: info.catalog 1.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_TITLE
+Informatie
+; Information
+;
+MSG_DESCRIPTION
+Toont icoon-informatie
+; Display Icon information
+;
+MSG_COPYRIGHT
+Icoon-informatie \xa9 2003-2010, Het AROS Ontwikkelaars Team
+; Icon information \xa9 2003-2010, The AROS Development Team
+;
+MSG_ICON
+Iconen
+; Icon
+;
+MSG_NAME
+Naam
+; Name
+;
+MSG_COMMENT
+Commentaar
+; Comment
+;
+MSG_STACK
+Stack
+; Stack
+;
+MSG_DEFTOOL
+Programma
+; Tool
+;
+MSG_ICONTYPE
+Icoontype
+; Icon type
+;
+MSG_DISK
+Schijf
+; Disk
+;
+MSG_DRAWER
+Lade
+; Drawer
+;
+MSG_TOOL
+Programma
+; Tool
+;
+MSG_PROJECT
+Project
+; Project
+;
+MSG_GARBAGE
+Prullenbak
+; Garbage
+;
+MSG_DEVICE
+Apparaat
+; Device
+;
+MSG_KICK
+Kickstart
+; Kick
+;
+MSG_APPICON
+AppIcon
+; AppIcon
+;
+MSG_INFORMATION
+Informatie
+; Information
+;
+MSG_PROTECTION
+Beveiliging
+; Protection
+;
+MSG_TOOLTYPES
+Tooltypes
+; Tooltypes
+;
+MSG_ERROR_SHELLSTART
+Fout: Kan niet vanuit de shell gestart worden
+; Error: Cannot be started from shell
+;
+MSG_ABOUT
+Over...
+; About...
+;
+MSG_QUIT
+Einde
+; Quit
+;
+MSG_READ
+Lezen
+; Read
+;
+MSG_WRITE
+Schrijven
+; Write
+;
+MSG_EXECUTE
+Uitvoeren
+; Execute
+;
+MSG_DELETE
+Verwijder
+; Delete
+;
+MSG_SCRIPT
+Script
+; Script
+;
+MSG_PURE
+Puur
+; Pure
+;
+MSG_ARCHIVED
+Gearchiveerd
+; Archived
+;
+MSG_STICKY
+Blijvend
+; Sticky
+;
+MSG_SIZE
+Grootte
+; Size
+;
+MSG_VERSION
+Versie
+; Version
+;
+MSG_OWNERID
+Eigenaar-ID
+; Owner ID
+;
+MSG_GROUPID
+Groeps-ID
+; Group ID
+;
+MSG_OWNERNAME
+Eigenaar
+; Owner
+;
+MSG_GROUPNAME
+Groep
+; Group
+;
+MSG_TYPE
+Type
+; Type
+;
+MSG_DATE
+Datum
+; Date
+;
+MSG_NEW_KEY
+Nieuwe sleutel
+; New key
+;
+MSG_DELETE_KEY
+Sleutel verwijderen
+; Delete key
+;
+MSG_SAVE
+_Bewaar
+; _Save
+;
+MSG_CANCEL
+_Annuleer
+; _Cancel
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_PATH
+Pad
+; Path
+;
+MSG_BTNPATH
+Pad openen...
+; Open path...
+;
