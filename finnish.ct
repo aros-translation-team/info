@@ -186,3 +186,11 @@ MSG_BTNPATH
 Avaa polku...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+Kuvakkeessa
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Tunnetut kohteelle %s
+; Known for %s
+;

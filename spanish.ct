@@ -188,3 +188,11 @@ MSG_BTNPATH
 Abrir ruta...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+En el ícono
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Conocidos para %s
+; Known for %s
+;

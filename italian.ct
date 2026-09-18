@@ -187,3 +187,11 @@ MSG_BTNPATH
 Apri percorso...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+Nell'icona
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Noti per %s
+; Known for %s
+;

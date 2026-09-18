@@ -182,3 +182,11 @@ MSG_BTNPATH
 Bidea ireki...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+Ikonoan
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+%s-rentzat ezagunak
+; Known for %s
+;

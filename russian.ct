@@ -141,3 +141,11 @@ MSG_PATH
 MSG_BTNPATH
 Перейти...
 ;
+MSG_TOOLTYPES_IN_ICON
+В иконке
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Известные для %s
+; Known for %s
+;

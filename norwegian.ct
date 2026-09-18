@@ -190,3 +190,11 @@ MSG_BTNPATH
 Åpne filsti...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+I ikonet
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Kjent for %s
+; Known for %s
+;

@@ -187,3 +187,11 @@ MSG_BTNPATH
 Otevøít...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+V ikonì
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Známé pro %s
+; Known for %s
+;

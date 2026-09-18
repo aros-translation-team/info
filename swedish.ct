@@ -186,3 +186,11 @@ MSG_BTNPATH
 Öppna sökväg...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+I ikonen
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Kända för %s
+; Known for %s
+;
