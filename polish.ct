@@ -186,3 +186,11 @@ MSG_BTNPATH
 Otwórz ¶cie¿kê dostêpu...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+W ikonce
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Znane dla %s
+; Known for %s
+;

@@ -186,3 +186,11 @@ MSG_BTNPATH
 Pad openen...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+In icoon
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Bekend voor %s
+; Known for %s
+;

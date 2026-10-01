@@ -190,3 +190,11 @@ MSG_BTNPATH
 Pfad öffnen...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+Im Piktogramm
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Bekannt für %s
+; Known for %s
+;

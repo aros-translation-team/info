@@ -186,3 +186,11 @@ MSG_BTNPATH
 Obrir el camí...
 ; Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+A la icona
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Coneguts per a %s
+; Known for %s
+;

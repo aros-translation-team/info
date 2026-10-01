@@ -144,3 +144,11 @@ MSG_BTNPATH
 Ouvrir le répertoire...
 ;Open path...
 ;
+MSG_TOOLTYPES_IN_ICON
+Dans l'icône
+; In icon
+;
+MSG_TOOLTYPES_KNOWN_FOR
+Connus pour %s
+; Known for %s
+;
